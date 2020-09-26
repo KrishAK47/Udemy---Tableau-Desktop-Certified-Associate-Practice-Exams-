@@ -3,8 +3,10 @@ Download all datasets here
 
 # How to Download Files
 
-Step 1: Click on the file
+Step 1: Click on the file </br>
 Step 2: Click Download
+
+![click_download](https://user-images.githubusercontent.com/71471818/94345297-22d07500-ffe2-11ea-945a-e5cce308b722.png)
 
 # List of files and datasources (Versions as of 2020-09-17):
 
